@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".CompSciEvents"></activity>
         <activity android:name=".EventPref" />
         <activity android:name=".GroupTimes" />
         <activity android:name=".Group" />

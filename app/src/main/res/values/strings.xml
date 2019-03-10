@@ -31,4 +31,6 @@
     <string name="event_8_details">Event 8 Details</string>
     <string name="event_6_details">Event 6 details</string>
     <string name="events">Events</string>
+    <string name="calendar">Calendar</string>
+    <string name="choose_a_time">Choose A Time</string>
 </resources>

@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".GroupTimes"></activity>
+        <activity android:name=".EventPref"></activity>
+        <activity android:name=".GroupTimes" />
         <activity android:name=".Group" />
         <activity android:name=".Calendar" />
         <activity android:name=".Events" />

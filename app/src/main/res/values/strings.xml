@@ -13,7 +13,6 @@
     <string name="groups">Groups</string>
     <string name="parth_shah">Parth Shah</string>
     <string name="my_calendar">My Calendar</string>
-    <string name="events">Events</string>
     <string name="pantherhack_android_string_fingerprint_icon_content_description">pantherhack @android:string/fingerprint_icon_content_description</string>
     <string name="support">Support</string>
     <string name="notifications">Notifications</string>
@@ -23,4 +22,13 @@
     <string name="_26_people_march_11_2_30_pm">26 people | March 11 2:30 pm</string>
     <string name="choose_time">Choose Time</string>
     <string name="club_member_availability">Club Member Availability</string>
+    <string name="event_1_details">Event 1 Details</string>
+    <string name="event_2_details">Event 2 Details</string>
+    <string name="event_3_details">Event 3 Details</string>
+    <string name="event_4_details">Event 4 Details</string>
+    <string name="event_5_details">Event 5 details</string>
+    <string name="event_7_details">Event 7 Details</string>
+    <string name="event_8_details">Event 8 Details</string>
+    <string name="event_6_details">Event 6 details</string>
+    <string name="events">Events</string>
 </resources>

@@ -23,12 +23,4 @@
     <string name="_26_people_march_11_2_30_pm">26 people | March 11 2:30 pm</string>
     <string name="choose_time">Choose Time</string>
     <string name="club_member_availability">Club Member Availability</string>
-    <string name="duration">Duration</string>
-    <string name="choose_your_event_preferences">Choose your event preferences</string>
-    <string name="start">Start</string>
-    <string name="end">End</string>
-    <string name="submit">Submit</string>
-    <string name="of_minutes"># of minutes</string>
-    <string name="mm_dd_yyyy">mm/dd/yyyy</string>
-    <string name="mm_dd_yyyy">mm/dd/yyyy</string>
 </resources>

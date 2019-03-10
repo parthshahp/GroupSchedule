@@ -25,12 +25,22 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="188dp"
+        android:layout_width="189dp"
         android:layout_height="61dp"
-        android:text="Calendar"
-        android:textSize="36sp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/calendar"
         android:textColor="#FFFFFF"
-        tools:layout_editor_absoluteX="33dp"
-        tools:layout_editor_absoluteY="62dp" />
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.038"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.09" />
 
 </android.support.constraint.ConstraintLayout>

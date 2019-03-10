@@ -10,4 +10,10 @@
     <string name="gsu">GSU</string>
     <string name="enter_name">Enter Name</string>
     <string name="pause_notifications">Pause notifications</string>
+    <string name="preferences">Preferences</string>
+    <string name="groups">Groups</string>
+    <string name="parth_shah">Parth Shah</string>
+    <string name="my_calendar">My Calendar</string>
+    <string name="events">Events</string>
+    <string name="pantherhack_android_string_fingerprint_icon_content_description">pantherhack @android:string/fingerprint_icon_content_description</string>
 </resources>

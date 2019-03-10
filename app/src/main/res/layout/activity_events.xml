@@ -45,13 +45,13 @@
         app:layout_constraintVertical_bias="1.0">
 
         <LinearLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <Button
                 android:id="@+id/Event1"
-                android:layout_width="match_parent"
+                android:layout_width="350dp"
                 android:layout_height="100dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"

@@ -79,6 +79,7 @@
 
             <Button
                 android:id="@+id/Event3"
+                style="@android:style/Widget.DeviceDefault.Button"
                 android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:layout_marginStart="8dp"

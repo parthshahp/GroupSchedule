@@ -10,6 +10,6 @@ public class Preferences extends AppCompatActivity {
         setContentView(R.layout.preferences);
 
         TextView test = (TextView)findViewById(R.id.textView);
-
+//hi
     }
 }

@@ -17,4 +17,10 @@
     <string name="pantherhack_android_string_fingerprint_icon_content_description">pantherhack @android:string/fingerprint_icon_content_description</string>
     <string name="support">Support</string>
     <string name="notifications">Notifications</string>
+    <string name="_23_people_march_11_9_30_am">23 people | March 11 9:30 am</string>
+    <string name="_20_people_march_12_1_30_pm">20 people | March 12 1:30 pm</string>
+    <string name="_24_people_march_11_3_30_pm">24 people | March 11 3:30 pm</string>
+    <string name="_26_people_march_11_2_30_pm">26 people | March 11 2:30 pm</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="club_member_availability">Club Member Availability</string>
 </resources>
